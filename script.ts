@@ -1,4 +1,5 @@
 import { PrismaClient } from "@prisma/client";
+// prisma client API
 
 const prisma = new PrismaClient();
 
