@@ -37,3 +37,6 @@ main()
 
 // view console logs - npx ts-node script.ts
 // https://www.prisma.io/docs/getting-started/quickstart
+
+// built-in GUI to view and edit the data in your database
+// npx prisma studio
